@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.BasicSimulation",
+  "simulationId": "basicsimulation",
+  "start": 1635126520139,
+  "description": "",
+  "scenarios": ["Create order", "Get product", "Create order Peak"],
+  "assertions": [
+
+  ]
+}
